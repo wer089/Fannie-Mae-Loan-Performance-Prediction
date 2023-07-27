@@ -4,7 +4,9 @@ The aim of this project is use data collected on a large number of loans in Oct 
 prediction models for the number of months payments are made on mortgage loans and for predicting foreclosure of a loan based on information available to FNMA at the time the loan is put
 on their books.
 
-Some background
+Some background:
+
+
 FNMA aka Fannie Mae (look it up in Wikipedia) was put in place in order to ensure liquidity in
 the US mortgage loan markets. When a mortgage holder secures a mortgage from a bank, the
 bank will sell that mortgage to FNMA giving them the capital to enable them to make additional
